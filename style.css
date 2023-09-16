@@ -1,0 +1,16 @@
+ol{
+    margin:0px;
+}
+
+ul{
+    list-style-type: circle;
+    margin: 0px;
+    margin-left: 33px;
+  
+}
+table,td,th{
+    border: 1px solid black;
+}
+div{
+    width: 176px;
+}
